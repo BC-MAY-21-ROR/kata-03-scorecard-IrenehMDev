@@ -13,7 +13,7 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: ireneh.dev_03@icloud.com
-  phone:
+  phone: 312- 152- 4929
   website: # No agregar http://
   linkedin: /irene-hernándezg
   github: IrenehMDev
@@ -67,6 +67,13 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+
+- role: Brightcoders intern
+    time: 2021 Nov - 2022 March
+    company: BrightCoders Academy
+    details: |
+      I participated in a Ruby on Rails Bootcamp.
+    
   - role: Software Desk Developer
     time: 2019 - Present
     company: Empress
@@ -105,6 +112,9 @@ skills:
     
     - name: PHP
       level: 40%
+      
+    - name: Ruby
+      level: 50%
 
 # NO MODIFICAR
 footer: >
